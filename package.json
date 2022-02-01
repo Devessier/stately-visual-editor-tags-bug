@@ -1,0 +1,23 @@
+{
+  "name": "stately-visual-editor-tags-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devessier/stately-visual-editor-tags-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Devessier/stately-visual-editor-tags-bug/issues"
+  },
+  "homepage": "https://github.com/Devessier/stately-visual-editor-tags-bug#readme",
+  "dependencies": {
+    "xstate": "^4.29.0"
+  }
+}
